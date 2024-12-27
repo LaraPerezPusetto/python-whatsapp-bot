@@ -1,5 +1,5 @@
 import json
-from dotenv import load_dotenv
+from dotsource env import load_dotenv
 import os
 import requests
 import aiohttp
